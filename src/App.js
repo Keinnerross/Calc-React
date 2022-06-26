@@ -46,7 +46,7 @@ function App() {
                 <Button clic={addInput}>/</Button>
             </div>
             <div className='fila'>
-                <ButtonClear clear={() => setInput('')}>Clear</ButtonClear>
+                <ButtonClear clear={() => setInput('#')}>Clear</ButtonClear>
             </div>
         </div>
     </div>

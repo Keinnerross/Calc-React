@@ -8,5 +8,4 @@ const ButtonClear = (props) =>{
     </div>
     );
 };
-
 export default ButtonClear;
