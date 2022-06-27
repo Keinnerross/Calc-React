@@ -13,6 +13,7 @@
     cursor: pointer;
     user-select: none;
     flex: 1;
+    user-select: none;
 }
 
 .button-clear:hover{
